@@ -1,2 +1,2 @@
 # codewars-kata-ThreePass-Tiny-Compiler
-An answer of the ThreePass kata on codewars.com
+An realization of the ThreePass kata on [codewars.com](https://www.codewars.com/kata/tiny-three-pass-compiler)
